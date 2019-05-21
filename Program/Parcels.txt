@@ -1,0 +1,16 @@
+1 fruit 15 Germany 1
+2 electronics 12 Poland 2
+3 sauce 8 Estonia 3
+4 tobacco 4 Poland 4
+5 vegetable 30 Ukraine 1
+6 misc. 26 Turkey 2
+7 food 48 Poland 5
+8 misc. 56 Greece 3
+9 beverage 16 Germany 6
+10 fruit 23 Hungary 7
+11 tools 14 Lithuania 8
+12 vegetables 34 Spain 9
+13 sauce 9 Poland 10
+14 misc. 62 Portugal 9
+15 jajka 29 hiny 10
+16 tools 40 hungary 11

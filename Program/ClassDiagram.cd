@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Agreement" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAgBQFAgIgAAADABGACAgBAAAQAEECRFAEBIABAAQw=</HashCode>
+      <FileName>Agreement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AgreementTable" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAIgACAAAAAAAAAAAAAAAAAAAAAAAkA=</HashCode>
+      <FileName>AgreementTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Backpack" Collapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABABAAAAAAABABAABACAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Backpack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseEntity" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>BaseEntity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client" Collapsed="true">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQAAQAAECAAAAAAgEAAAABAAACAAEgEAAEAAQ=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientTable" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAIAAAAAAAAAACAAEAAEAAQAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ClientTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database" Collapsed="true">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAhAIiEgAAEAgQEAACACAAIAgEAoAAAAAgAAAAIQ=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBTable&lt;T&gt;" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAEAAAAAAAAAAQAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>DBTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAEAAACAAAAIAAAACAAAAAAAAAAAAgAAEIA=</HashCode>
+      <FileName>Employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTable" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIAAAAAAAAAACAAAAAAAAQAAAAAACAAAEAAIgA=</HashCode>
+      <FileName>EmployeeTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gKAAAgAAQIAQEBAgBgBBAAQQAAAAQYARAAABACAAoEA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcel" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIBgAEgAAAAACAAAAAAAAAAAAEAAACAAgEBAAKAAA=</HashCode>
+      <FileName>Parcel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParcelTable" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgIAAAAAAAAAACAIAiAAAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>ParcelTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAACAAhAAAQAAAAAAAAAIEAEAABAIAAEAAAAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAEAACIACAIAABAAAABABAEAAAgAEAEAAIAAA=</HashCode>
+      <FileName>Vehicle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleTable" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAACAAEAAAQAQAAAAAAAAAAAAQAgA=</HashCode>
+      <FileName>VehicleTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="sharedCliObjPtr" Collapsed="true">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommonTypedefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sharedParObjPtr" Collapsed="true">
+    <Position X="10.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommonTypedefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sharedEmpObjPtr" Collapsed="true">
+    <Position X="8.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommonTypedefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sharedVehObjPtr" Collapsed="true">
+    <Position X="7" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommonTypedefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="sharedAgrObjPtr" Collapsed="true">
+    <Position X="3.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommonTypedefs.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CliTablePtr" Collapsed="true">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="EmpTablePtr" Collapsed="true">
+    <Position X="8.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="VehTablePtr" Collapsed="true">
+    <Position X="7" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ParTablePtr" Collapsed="true">
+    <Position X="10.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="AgrTablePtr" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DBsharedPtr" Collapsed="true">
+    <Position X="6.5" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
